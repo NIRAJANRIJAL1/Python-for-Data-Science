@@ -11,3 +11,6 @@
 6) [Python Tutorial 6 - Dictionary](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Python%20Dictionaries.pdf)<br />
 
 [Operators in Python]
+7) [Python Tutorial 7 - Arithmetic Operator](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Arithmetic%20Operator%20in%20Python%20(Chapter%201).pdf)<br />
+8) [Python Tutorial 8 - Assignment and Comparision Operator](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Assignment%20and%20Comparision%20Operator%20.pdf)<br />
+9) [Python Tutorial 9- Identity and Bitwise Operator](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Identity%20and%20Bitwise%20Operator.pdf)<br />
