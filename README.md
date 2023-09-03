@@ -15,3 +15,10 @@
 7) [Python Tutorial 7 - Arithmetic Operator](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Arithmetic%20Operator%20in%20Python%20(Chapter%201).pdf)<br />
 8) [Python Tutorial 8 - Assignment and Comparision Operator](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Assignment%20and%20Comparision%20Operator%20.pdf)<br />
 9) [Python Tutorial 9- Identity and Bitwise Operator](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Identity%20and%20Bitwise%20Operator.pdf)<br />
+10) [Python Tutorial 10- Type conversion in Python](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Type%20Conversion%20.pdf)<br />
+
+[Flow Control in Python - Conditional, Transfer & iterative statement]
+
+11) [Python Tutorial 11 - if else elif](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/if%20else%20elif%20statement.pdf)<br />
+12) [Python Tutorial 12- loop](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Loop%20in%20Python%20with%20Transfer%20statement%20(Break%20and%20continue).pdf))<br />
+
