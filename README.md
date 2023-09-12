@@ -29,3 +29,4 @@ ________________________________________________________________________________
 [PRACTICE - QUESTION & SOLUTION]
 
 [if, else, for, module](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Question%20and%20solution-%20if%2C%20else%2C%20for%2C%20module.pdf)<br />
+[Mainly about strings and Pattern](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Maily%20about%20String%20and%20pattern.pdf)<br />
