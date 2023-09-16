@@ -31,3 +31,4 @@ ________________________________________________________________________________
 [if, else, for, module](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Question%20and%20solution-%20if%2C%20else%2C%20for%2C%20module.pdf)<br />
 [Mainly about strings and Pattern](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Maily%20about%20String%20and%20pattern.pdf)<br />
 [String operation-1](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Strings%20operation%20practice%201.pdf)<br />
+[String operation-2](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/String%20practice%202.pdf)<br />
