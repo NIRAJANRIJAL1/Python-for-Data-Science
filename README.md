@@ -33,3 +33,4 @@ ________________________________________________________________________________
 [String operation-1](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Strings%20operation%20practice%201.pdf)<br />
 [String operation-2](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/String%20practice%202.pdf)<br />
 [list operation practice with few list comprehension example](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/List%20operation%20Practice.pdf)<br />
+[Set,Tuples & Dictionary practice](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Tuple%2C%20Sets%20and%20Dictionary.pdf)<br />
