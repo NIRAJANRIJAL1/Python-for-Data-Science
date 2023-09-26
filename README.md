@@ -22,6 +22,10 @@
 11) [Python Tutorial 11 - if else elif](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/if%20else%20elif%20statement.pdf)<br />
 12) [Python Tutorial 12- loop](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Loop%20in%20Python%20with%20Transfer%20statement%20Break%20and%20continue.pdf)<br />
 
+[Function in Python - Normal function, Map function and filter function with Lambda]
+
+13) [Python Tutirial 13- function](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Python%20Function.pdf)<br />
+
 
 
 ________________________________________________________________________________________________________________________________________________________________________
