@@ -26,7 +26,8 @@
 
 13) [Python Tutirial 13- function](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Python%20Function.pdf)<br />
 
-
+[Object Oriented Programming]
+14) [Python Tutorial 14-Class,object,methods, instance & class variable](https://github.com/NIRAJANRIJAL1/Data-Science/blob/main/OOP%20Python%20Tutorial%201.pdf)<br />
 
 ________________________________________________________________________________________________________________________________________________________________________
 
@@ -38,4 +39,4 @@ ________________________________________________________________________________
 [String operation-2](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/String%20practice%202.pdf)<br />
 [list operation practice with few list comprehension example](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/List%20operation%20Practice.pdf)<br />
 [Set,Tuples & Dictionary practice](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Tuple%2C%20Sets%20and%20Dictionary.pdf)<br />
-[Function Practice plus few NumPy-sort and unique](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Function%20Practice%20plus%20few%20NumPy-sort%20and%20unique.pdf)<br />
+[Function Practice plus lambda & few NumPy-sort and unique](https://github.com/NIRAJANRIJAL1/DataScience/blob/main/Function%20Practice%20plus%20few%20NumPy-sort%20and%20unique.pdf)<br />
