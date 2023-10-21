@@ -32,8 +32,8 @@
 15) [Python Tutorial 15-Modify and delete object](https://github.com/NIRAJANRIJAL1/Data-Science/blob/main/OOP%20tutorial%202%20-%20Modifying%20and%20deleting%20object.pdf)<br />
 16) [Python Tutorial 16-Constructor in Python](https://github.com/NIRAJANRIJAL1/Data-Science/blob/main/Constructor%20in%20Python.pdf)<br />
 17) [Python Tutorial 17-import date & getattr,setattr,hasattr](https://github.com/NIRAJANRIJAL1/Data-Science/blob/main/OOP%202%20(import%20date)%20%26%20getattr%2Csetattr%2Chasattr.pdf)<br />
-18) [Python Tutorial 18 - Class and instance attributes](https://github.com/NIRAJANRIJAL1/Data-Science/blob/main/Class%20attributes%20and%20Instance%20Attributes.pdf)
-  
+18) [Python Tutorial 18 - Class and instance attributes](https://github.com/NIRAJANRIJAL1/Data-Science/blob/main/Class%20attributes%20and%20Instance%20Attributes.pdf)<br />
+19) [Python Tutorial 19 - Glance Basic concepts of Inheritance, Polymorphism and Encapsulation.pdf](https://github.com/NIRAJANRIJAL1/Python-for-Data-Science/blob/main/Glance%20Basic%20concepts%20of%20Inheritance%2C%20Polymorphism%20and%20Encapsulation.pdf)<br />   
 
 ________________________________________________________________________________________________________________________________________________________________________
 
