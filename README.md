@@ -34,7 +34,7 @@
 17) [Python Tutorial 17-import date & getattr,setattr,hasattr](https://github.com/NIRAJANRIJAL1/Data-Science/blob/main/OOP%202%20(import%20date)%20%26%20getattr%2Csetattr%2Chasattr.pdf)<br />
 18) [Python Tutorial 18 - Class and instance attributes](https://github.com/NIRAJANRIJAL1/Data-Science/blob/main/Class%20attributes%20and%20Instance%20Attributes.pdf)<br />
 19) [Python Tutorial 19 - Glance Basic concepts of Inheritance, Polymorphism and Encapsulation.pdf](https://github.com/NIRAJANRIJAL1/Python-for-Data-Science/blob/main/Glance%20Basic%20concepts%20of%20Inheritance%2C%20Polymorphism%20and%20Encapsulation.pdf)<br />   
-
+20) [Python Tutorial 20 - OOP revise: self,builtin class function like getattr](https://github.com/NIRAJANRIJAL1/Python-for-Data-Science/blob/main/OOP%20revise%20-self%2C%20built%20in%20class..pdf)<br />
 ________________________________________________________________________________________________________________________________________________________________________
 
 [PRACTICE - QUESTION & SOLUTION]
