@@ -36,6 +36,7 @@
 19) [Python Tutorial 19 - Glance Basic concepts of Inheritance, Polymorphism and Encapsulation.pdf](https://github.com/NIRAJANRIJAL1/Python-for-Data-Science/blob/main/Glance%20Basic%20concepts%20of%20Inheritance%2C%20Polymorphism%20and%20Encapsulation.pdf)<br />   
 20) [Python Tutorial 20 - OOP revise: self,builtin class function like getattr](https://github.com/NIRAJANRIJAL1/Python-for-Data-Science/blob/main/OOP%20revise%20-self%2C%20built%20in%20class..pdf)<br />
 21) [Python Tutorial 21 - OOP full tutorial](https://github.com/NIRAJANRIJAL1/Python-for-Data-Science/blob/main/OOP%20Full%20Tutorial.pdf)<br />
+22) [Python Tutorial 22 - OOP at a glance with overriding and @property concepts](https://github.com/NIRAJANRIJAL1/Python-for-Data-Science/blob/main/OOP%20(At%20a%20glance)%20for%20data%20science%20plus%20overriding%20and%20%40property%20concepts.pdf)<br />
 ________________________________________________________________________________________________________________________________________________________________________
 
 [PRACTICE - QUESTION & SOLUTION]
